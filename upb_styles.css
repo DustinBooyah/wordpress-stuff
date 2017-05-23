@@ -1185,6 +1185,7 @@ kbd {
   .subcolumn_l {
    display:inline-block;
    max-width: 65%;
+   vertical-align:top;
  }
  .bold {
    font-weight: bold;
